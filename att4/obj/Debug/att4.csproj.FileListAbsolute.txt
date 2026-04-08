@@ -1,0 +1,8 @@
+C:\Users\lab1067\source\repos\atividadesjetec\att4\bin\Debug\att4.exe.config
+C:\Users\lab1067\source\repos\atividadesjetec\att4\bin\Debug\att4.exe
+C:\Users\lab1067\source\repos\atividadesjetec\att4\bin\Debug\att4.pdb
+C:\Users\lab1067\source\repos\atividadesjetec\att4\obj\Debug\att4.csproj.AssemblyReference.cache
+C:\Users\lab1067\source\repos\atividadesjetec\att4\obj\Debug\att4.csproj.CoreCompileInputs.cache
+C:\Users\lab1067\source\repos\atividadesjetec\att4\obj\Debug\att4.exe
+C:\Users\lab1067\source\repos\atividadesjetec\att4\obj\Debug\att4.pdb
+C:\Users\lab1067\source\repos\atividadesjetec\att4\obj\Debug\att4.exe.config
