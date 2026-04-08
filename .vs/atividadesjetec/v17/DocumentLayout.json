@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab1067\\source\\repos\\atividadesjetec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F75D2425-1410-4C80-9A23-858253731758}|att3\\att3.csproj|c:\\users\\lab1067\\source\\repos\\atividadesjetec\\att3\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75D2425-1410-4C80-9A23-858253731758}|att3\\att3.csproj|solutionrelative:att3\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75D2425-1410-4C80-9A23-858253731758}|att3\\att3.csproj|c:\\users\\lab1067\\source\\repos\\atividadesjetec\\att3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75D2425-1410-4C80-9A23-858253731758}|att3\\att3.csproj|solutionrelative:att3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A37507E-729C-4BB7-8ABE-D36AE5BA9DED}|att2\\att2.csproj|c:\\users\\lab1067\\source\\repos\\atividadesjetec\\att2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A37507E-729C-4BB7-8ABE-D36AE5BA9DED}|att2\\att2.csproj|solutionrelative:att2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A37507E-729C-4BB7-8ABE-D36AE5BA9DED}|att2\\att2.csproj|c:\\users\\lab1067\\source\\repos\\atividadesjetec\\att2\\whatts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A37507E-729C-4BB7-8ABE-D36AE5BA9DED}|att2\\att2.csproj|solutionrelative:att2\\whatts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C87149-DC3C-4528-976A-D7FC494EF42B}|att1\\att1.csproj|c:\\users\\lab1067\\source\\repos\\atividadesjetec\\att1\\mensageiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C87149-DC3C-4528-976A-D7FC494EF42B}|att1\\att1.csproj|solutionrelative:att1\\mensageiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C87149-DC3C-4528-976A-D7FC494EF42B}|att1\\att1.csproj|c:\\users\\lab1067\\source\\repos\\atividadesjetec\\att1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C87149-DC3C-4528-976A-D7FC494EF42B}|att1\\att1.csproj|solutionrelative:att1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\lab1067\\source\\repos\\atividadesjetec\\att3\\calculadora.cs",
+              "RelativeDocumentMoniker": "att3\\calculadora.cs",
+              "ToolTip": "C:\\Users\\lab1067\\source\\repos\\atividadesjetec\\att3\\calculadora.cs",
+              "RelativeToolTip": "att3\\calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:06:27.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab1067\\source\\repos\\atividadesjetec\\att3\\Program.cs",
+              "RelativeDocumentMoniker": "att3\\Program.cs",
+              "ToolTip": "C:\\Users\\lab1067\\source\\repos\\atividadesjetec\\att3\\Program.cs",
+              "RelativeToolTip": "att3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:06:05.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "whatts.cs",
+              "DocumentMoniker": "C:\\Users\\lab1067\\source\\repos\\atividadesjetec\\att2\\whatts.cs",
+              "RelativeDocumentMoniker": "att2\\whatts.cs",
+              "ToolTip": "C:\\Users\\lab1067\\source\\repos\\atividadesjetec\\att2\\whatts.cs",
+              "RelativeToolTip": "att2\\whatts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:45:45.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab1067\\source\\repos\\atividadesjetec\\att2\\Program.cs",
+              "RelativeDocumentMoniker": "att2\\Program.cs",
+              "ToolTip": "C:\\Users\\lab1067\\source\\repos\\atividadesjetec\\att2\\Program.cs",
+              "RelativeToolTip": "att2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:45:05.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mensageiro.cs",
+              "DocumentMoniker": "C:\\Users\\lab1067\\source\\repos\\atividadesjetec\\att1\\mensageiro.cs",
+              "RelativeDocumentMoniker": "att1\\mensageiro.cs",
+              "ToolTip": "C:\\Users\\lab1067\\source\\repos\\atividadesjetec\\att1\\mensageiro.cs",
+              "RelativeToolTip": "att1\\mensageiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:42:27.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab1067\\source\\repos\\atividadesjetec\\att1\\Program.cs",
+              "RelativeDocumentMoniker": "att1\\Program.cs",
+              "ToolTip": "C:\\Users\\lab1067\\source\\repos\\atividadesjetec\\att1\\Program.cs",
+              "RelativeToolTip": "att1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:42:15.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
