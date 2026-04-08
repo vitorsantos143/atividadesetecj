@@ -10,6 +10,11 @@ namespace att3
     {
         static void Main(string[] args)
         {
+            calculadora soma = new calculadora();
+            soma.pedirNum1();
+            soma.pedirNum2();
+            soma.calculo();
+            soma.exibir();
         }
     }
 }
