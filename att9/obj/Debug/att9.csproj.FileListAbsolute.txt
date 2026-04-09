@@ -1,0 +1,8 @@
+C:\Users\lab3135\source\repos\atividadesetecj\att9\bin\Debug\att9.exe.config
+C:\Users\lab3135\source\repos\atividadesetecj\att9\bin\Debug\att9.exe
+C:\Users\lab3135\source\repos\atividadesetecj\att9\bin\Debug\att9.pdb
+C:\Users\lab3135\source\repos\atividadesetecj\att9\obj\Debug\att9.csproj.AssemblyReference.cache
+C:\Users\lab3135\source\repos\atividadesetecj\att9\obj\Debug\att9.csproj.CoreCompileInputs.cache
+C:\Users\lab3135\source\repos\atividadesetecj\att9\obj\Debug\att9.exe
+C:\Users\lab3135\source\repos\atividadesetecj\att9\obj\Debug\att9.pdb
+C:\Users\lab3135\source\repos\atividadesetecj\att9\obj\Debug\att9.exe.config
